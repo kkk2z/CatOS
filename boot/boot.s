@@ -1,4 +1,3 @@
-; boot.s: A minimal bootloader in assembly for 16-bit real mode
 BITS 16
 ORG 0x7C00
 
